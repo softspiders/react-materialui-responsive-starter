@@ -1,5 +1,3 @@
-# react-materialui-responsive
-
-react-materialui-responsive-starter
+# react-materialui-responsive-starter
 
 UNDER DEVELOPMENT
