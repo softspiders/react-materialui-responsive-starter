@@ -2,7 +2,7 @@ SOFTSPIDERS
 
 # react-materialui-responsive-starter
 
-Minimalistic React module with Material UI responsive layout
+Minimalistic React Storybook starter with Material UI responsive layout
 
 ## Feature tags
 
