@@ -7,7 +7,7 @@ Minimalistic React module with Material UI responsive layout
 ## Feature tags
 
 - react
-- material-ui
+- materialui
 
 ---
 
@@ -20,7 +20,6 @@ Minimalistic React module with Material UI responsive layout
 ## Requirements
 
 * [Node.js](https://nodejs.org/en/download/package-manager/)
-* [material-ui](https://material-ui.com/)
 
 ---
 
