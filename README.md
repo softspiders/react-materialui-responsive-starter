@@ -10,6 +10,7 @@ Minimalistic React Storybook starter with Material UI responsive layout
 - react
 - responsive
 - starter
+- template
 
 ---
 
